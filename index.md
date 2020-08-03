@@ -1,32 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to SoloKat Home
 
-You can use the [editor on GitHub](https://github.com/edgefree/solokat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a home to record everyday teck step for SoloKat. The tech path could be solo explorer. Solo is a must and long lasting situation. Kat is liking kayat name. She brings me and encourage me explorering the secret places. Hope here recording the all pains and happyness.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Leetcode Practices
 
-### Markdown
+As I have not practiced algorithm for 10+ years, the knowledge I learned during college hours is forgotten almost. It is a chance and opportunity to pick them up. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here will be a place to record all I tried with success and failure.
 
 ### Jekyll Themes
 
